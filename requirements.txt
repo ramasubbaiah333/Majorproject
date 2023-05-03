@@ -2,4 +2,4 @@ numpy
 whitenoise
 flask
 requests
-random
+python-sample-package
