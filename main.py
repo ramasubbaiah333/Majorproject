@@ -7,7 +7,7 @@ from whitenoise import WhiteNoise
 from flask import (Flask, flash, redirect, render_template, request,
                    send_from_directory, url_for)
 
-#import sample
+import sample
 import pickle
 # import torch
 import webbrowser
